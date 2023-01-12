@@ -10,6 +10,9 @@ gallery = gallery.map(item => {
     };
 });
 
+// 
+// Uncomment this to see weird behavior with a single image:
+//
 // gallery = [ gallery[0] ];
 
 console.log(gallery);
